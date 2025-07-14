@@ -1,0 +1,29 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+*.html
+*.DS_Store
+.gitignore
+.github/CODEOWNERS
+.gitattributes
+.prettierignore
+*.md
+*.sh
+*.env
+*.yml
+Dockerfile
+*.svg
+*.png 
+*.ico
+*.conf
+*.txt
+*.development
+*.editorconfig
+*.lock
+*.sql
+.vscode
+dbmigration
+.husky/pre-commit
+dist
